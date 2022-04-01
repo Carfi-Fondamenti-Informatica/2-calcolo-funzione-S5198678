@@ -20,7 +20,7 @@ int main() {
 
      }
 
-    cout << z <<endl;
+   
 
     return 0;
 }
